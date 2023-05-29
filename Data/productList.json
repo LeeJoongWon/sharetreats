@@ -1,0 +1,14 @@
+[
+    {
+        "storeCode": "bakery",
+        "productCode": 100000001,
+        "name": "초코빵",
+        "quantity": 2
+    },
+    {
+        "storeCode": "bakery",
+        "productCode": 100000002,
+        "name": "멜론빵",
+        "quantity": 1
+    }
+]
